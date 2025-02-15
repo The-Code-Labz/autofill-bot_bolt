@@ -1,0 +1,13 @@
+{
+      "name": "auto-form-filler",
+      "version": "1.0.0",
+      "description": "A bot to automate form filling.",
+      "main": "index.js",
+      "scripts": {
+        "start": "node index.js"
+      },
+      "dependencies": {
+        "puppeteer": "^21.7.0",
+        "prompt-sync": "^4.2.0"
+      }
+    }
